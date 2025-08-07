@@ -9,6 +9,10 @@ Este projeto tem como objetivo prever o preço de diárias de hotéis com base e
 Foram desenvolvidos e comparados **três modelos de regressão linear** com diferentes combinações de variáveis preditoras.
 
 ---
+# 📊 Análise exploratória com PairPlot
+<img width="986" height="1023" alt="baixados" src="https://github.com/user-attachments/assets/3702a790-4fdb-4f35-8b18-42ca04e5e1cf" />
+---
+
 
 ## 🔍 Etapas do Projeto
 
